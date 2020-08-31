@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Handlee&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/master.css" />
+    <link rel="manifest" href="manifest.json" />
+
+    <meta name="msapplication-TileColor" content="#ffdf00" />
+    <meta name="theme-color" content="#929292" />
+    <title>Sticky Notes!</title>
+  </head>
+  <body>
+    <div id="heading">
+      <h1>Sticky Notes!</h1>
+    </div>
+
+    <div id="form">
+      <form id="inputForm">
+        <input
+          type="text"
+          name="title"
+          id="newNoteTitle"
+          class="inputText"
+          placeholder="Title of New Note"
+          autocomplete="off"
+          required
+          autofocus
+        />
+        <input
+          type="text"
+          name="content"
+          id="newNoteBody"
+          class="inputText"
+          placeholder="New Note Content"
+          autocomplete="off"
+          required
+        />
+        <button type="submit" class="btn">Create Note</button>
+      </form>
+    </div>
+
+    <h3 id="nonotes">No notes found! Why not add one? :)</h3>
+
+    <ul id="notes"></ul>
+    <script src="js/scripts.js"></script>
+  </body>
+</html>
