@@ -1,5 +1,5 @@
 # Sticky-Notes
-
+##### Just a small sticky notes app to help you keep track of your to-dos :)
 
 Haven't you always wanted to keep track of what to do throught the day or want to do something later but too lazy to set a remainder for it or too lazy to get up from in front of your laptop? Well here's Sticky Notes!
 
