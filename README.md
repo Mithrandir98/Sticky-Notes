@@ -69,7 +69,7 @@ Things left to do (ironic I know) :
 
 - [ ] Change the tilt of the notes.
 - [ ] Fix the randid bug.
-- [ ] Host the app on either netlify or heroku.
+- [x] Host the app on either netlify or heroku.
 - [ ] Add icons for apple and andriod devices as well as include icons for smaller screens.
 - [ ] Add buttons to allow users to change colors according to their choice.
 - [ ] Enable sign up and login
