@@ -5,6 +5,10 @@ Haven't you always wanted to keep track of what to do throught the day or want t
 
 Sticky Notes is a progressive web app that uses HTML5, CSS, and JavaScript to enable the user to store their notes on the app. 
 
+Here's what the finished site looks like : 
+
+https://optimistic-ptolemy-777ad0.netlify.app/
+
 In the repo, two files, manifest.json and service-worker.js are included but it would be better if the user were to create their own if they wish to edit the code. 
 
 
